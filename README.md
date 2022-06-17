@@ -3,5 +3,5 @@
 - Contact me at: liambt20@gmail.com
 
   
- ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
- ![instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=white)]
+ ![github](https://img.shields.io/badge/GitHub-#66459B?style=for-the-badge&logo=GitHub&logoColor=white)]
+ ![Twitter](https://img.shields.io/badge/instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)]
