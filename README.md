@@ -13,7 +13,7 @@ A brief description of what this project does and who it's for
 Javascript, HTML, CSS...
 
 
-![Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNo-Z6ggVK13wgRrDkuWoLzKT2yCGGsxbY-w&usqp=CAU)
+![Logo]()
 
 
 
