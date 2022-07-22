@@ -3,15 +3,15 @@
 
 <p align="left"> <a href="https://twitter.com/l3awm" target="blank"><img src="https://img.shields.io/twitter/follow/l3awm?logo=twitter&style=for-the-badge" alt="l3awm" /></a> </p>
 
-- 🔭 I’m currently working on [My Portfolio Site](https://liamthompson.net/)
+- 🔭 I’m currently working on [my Portfolio Site](https://liamthompson.net/)
 
 - 🌱 I’m currently learning **Front End Development, JavaScript, and Python**
 
 - 📝 I write on [https://medium.com/@liambt20](https://medium.com/@liambt20)
 
-- 📫 How to reach me **liambt20@gmail.com**
+- 📫 Reach me here: **liambt20@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/195gGzkvd_VNd6eX9-eIUYu0k-QOsIBmIhp0RiAuIvkI/edit?usp=sharing](https://docs.google.com/document/d/195gGzkvd_VNd6eX9-eIUYu0k-QOsIBmIhp0RiAuIvkI/edit?usp=sharing)
+- 📄 My resume: [https://docs.google.com/document/d/195gGzkvd_VNd6eX9-eIUYu0k-QOsIBmIhp0RiAuIvkI/edit?usp=sharing](https://docs.google.com/document/d/195gGzkvd_VNd6eX9-eIUYu0k-QOsIBmIhp0RiAuIvkI/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
